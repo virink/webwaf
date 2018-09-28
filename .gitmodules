@@ -1,0 +1,3 @@
+[submodule "flask/flask_waf"]
+	path = flask/flask_waf
+	url = git@github.com:virink/flask_waf.git
